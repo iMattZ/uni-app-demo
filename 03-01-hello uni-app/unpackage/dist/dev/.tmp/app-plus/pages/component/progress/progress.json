@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "progress",
+  "usingComponents": {
+    "page-head": "/components/page-head",
+    "uni-icon": "/components/uni-icon/uni-icon"
+  }
+}

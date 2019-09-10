@@ -1,0 +1,11 @@
+<template>
+	
+	<view class="icon iconfont icon-fabu animated bounceOut" >23456789</view>
+	
+</template>
+
+<script>
+</script>
+
+<style>
+</style>
